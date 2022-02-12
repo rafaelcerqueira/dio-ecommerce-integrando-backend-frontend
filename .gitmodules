@@ -1,0 +1,3 @@
+[submodule "dio-ecommerce-integrando-backend-frontend"]
+	path = dio-ecommerce-integrando-backend-frontend
+	url = https://github.com/rafaelcerqueira/dio-ecommerce-integrando-backend-frontend.git
